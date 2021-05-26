@@ -1,0 +1,10 @@
+C:\Users\gtvag\source\repos\6PigLatin\6PigLatin\bin\Debug\6PigLatin.exe.config
+C:\Users\gtvag\source\repos\6PigLatin\6PigLatin\bin\Debug\6PigLatin.exe
+C:\Users\gtvag\source\repos\6PigLatin\6PigLatin\bin\Debug\6PigLatin.pdb
+C:\Users\gtvag\source\repos\6PigLatin\6PigLatin\obj\Debug\6PigLatin.csprojAssemblyReference.cache
+C:\Users\gtvag\source\repos\6PigLatin\6PigLatin\obj\Debug\_6PigLatin.Form1.resources
+C:\Users\gtvag\source\repos\6PigLatin\6PigLatin\obj\Debug\_6PigLatin.Properties.Resources.resources
+C:\Users\gtvag\source\repos\6PigLatin\6PigLatin\obj\Debug\6PigLatin.csproj.GenerateResource.cache
+C:\Users\gtvag\source\repos\6PigLatin\6PigLatin\obj\Debug\6PigLatin.csproj.CoreCompileInputs.cache
+C:\Users\gtvag\source\repos\6PigLatin\6PigLatin\obj\Debug\6PigLatin.exe
+C:\Users\gtvag\source\repos\6PigLatin\6PigLatin\obj\Debug\6PigLatin.pdb
